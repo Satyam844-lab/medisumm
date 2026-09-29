@@ -10,3 +10,4 @@ sentence-transformers
 pdf2image
 pillow
 python-dotenv
+torchvision
