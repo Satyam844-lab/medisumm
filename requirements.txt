@@ -1,11 +1,12 @@
 streamlit
+groq
 langchain
-langchain-groq
 langchain-community
+langchain-groq
 langchain-text-splitters
-faiss-cpu
 pypdf
+faiss-cpu
+sentence-transformers
+pdf2image
 pillow
 python-dotenv
-groq
-requests
